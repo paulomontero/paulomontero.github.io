@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV is available at https://github.com/paulomontero/paulomontero.github.io/blob/master/files/CV.pdf
+My CV is available [here](https://github.com/paulomontero/paulomontero.github.io/blob/master/files/CV.pdf)
