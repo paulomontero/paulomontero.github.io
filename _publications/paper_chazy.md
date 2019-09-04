@@ -3,7 +3,7 @@ title: "Slowly rotating curzon-chazy metric"
 collection: publications
 permalink: /publication/paper_chazy
 excerpt: 
-date: 2015-08
+date: 2015-08-01
 venue: 'Revista de Matemática: Teoría y Aplicaciones'
 paperurl: 'https://arxiv.org/abs/1405.2899'
 ---
