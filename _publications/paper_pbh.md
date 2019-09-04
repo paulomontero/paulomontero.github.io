@@ -3,7 +3,7 @@ title: "Revisiting constraints on asteroid-mass range primordial black holes as 
 collection: publications
 permalink: /publication/paper_pbh
 excerpt: 
-date: 2019-08
+date: 2019-08-01
 venue: 'Journal of Cosmology and Astroparticle Physics'
 paperurl: 'https://arxiv.org/abs/1906.05950'
 ---
