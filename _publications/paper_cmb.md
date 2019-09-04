@@ -1,7 +1,7 @@
 ---
 title: "Exploring circular polarization in the CMB due to conventional sources of cosmic birefringence"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper_cmb
 excerpt: 
 date: 2018-08
 venue: 'Journal of Cosmology and Astroparticle Physics'
