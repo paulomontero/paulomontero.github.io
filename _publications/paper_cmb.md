@@ -3,7 +3,7 @@ title: "Exploring circular polarization in the CMB due to conventional sources o
 collection: publications
 permalink: /publication/paper_cmb
 excerpt: 
-date: 2018-08
+date: 2018-08-01
 venue: 'Journal of Cosmology and Astroparticle Physics'
 paperurl: 'https://arxiv.org/abs/1803.04505'
 ---
