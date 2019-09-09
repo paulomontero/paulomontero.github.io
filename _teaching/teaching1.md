@@ -1,5 +1,5 @@
 ---
-title: "Grader, General physics III: Electrodynamics, optics and modern physics"
+title: "Grader, General Physics III"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching1
@@ -8,7 +8,11 @@ date: 2010-08-01
 location: "San Jose, Costa Rica"
 ---
 
-Graded general physics III for physics majors. Instructor: Prof. Rodrigo Carboni.
+Graded General Physics III for physics majors. Instructor: Prof. Rodrigo Carboni.
 
 Total duration: Fall 2010 -- Fall 2012
 ======
+
+Main Topics:
+======
+Electrodynamics, optics and modern physics. 
