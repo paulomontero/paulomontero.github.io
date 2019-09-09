@@ -8,7 +8,7 @@ date: 2010-08-01
 location: "San Jose, Costa Rica"
 ---
 
-Graded General Physics III for physics majors. Instructor: Prof. Rodrigo Carboni.
+Graded General Physics III for physics majors in their sophomore year. Instructor: Prof. Rodrigo Carboni.
 
 Total duration: Fall 2010 -- Fall 2012
 ======
