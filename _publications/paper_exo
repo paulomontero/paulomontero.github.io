@@ -7,6 +7,8 @@ date: 2019-10-08
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/1910.02504'
 ---
-bla bla exo
+
+We proposed a new method for detecting magnetic fields in exoplanets based on existing methods used by the solar physics community. The method in question is based on the meta-stable He 1083 nm transition line. We show that in the conditions in the escaping atmospheres of close-in exoplanets, metastable helium atoms should be optically pumped by the starlight, and depending of the strenght of the magnetic field, they should align with the magnetic field. This results in linearly polarized absorption at 1083 nm that traces the field direction. 
+
 
 [Download paper here](https://arxiv.org/abs/1910.02504)
