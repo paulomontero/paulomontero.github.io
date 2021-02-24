@@ -1,5 +1,5 @@
 ---
-title: "Lecturer, General Physics II"
+title: "Lecturer, Physics II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching6
@@ -8,7 +8,7 @@ date: 2013-08-01
 location: "San Jose, Costa Rica"
 ---
 
-Taught General Physics II a course primary for engineer majors.
+Physics II: Electrostatics, Thermodynamics, and Waves. Primarily for engineer majors in their sophomore year.
 
 Total Duration: Fall 2013 -- Spring 2014
 ======
