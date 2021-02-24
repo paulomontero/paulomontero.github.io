@@ -8,7 +8,7 @@ date: 2015-08-23
 location: "Columbus, OH, USA"
 ---
 
-Taught Physics 1251 a course mainly for engineer majors. 
+Physics 1251: Electromagnetism, optics, waves, and modern physics. Mainly for engineer majors. 
 
 Total Duration: Fall 2015 -- Spring 2016
 ======
