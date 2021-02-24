@@ -1,5 +1,5 @@
 ---
-title: "Grader, Mathematical Methods for Physicists III"
+title: "Teaching Assistant, Mathematical Methods for Physicists III"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching2
@@ -8,7 +8,7 @@ date: 2012-08-01
 location: "San Jose, Costa Rica"
 ---
 
-Graded Mathematical Methods for Physicists III a course for physics majors in their junior year. Instructor: Prof. Francisco Frutos.
+Mathematical Methods for Physicists III: Differential forms, Green functions, and special functions. For physics majors in their junior year. Instructor: Prof. Francisco Frutos.
 
 Total Duration: Fall 2012
 ======
