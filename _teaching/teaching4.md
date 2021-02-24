@@ -1,5 +1,5 @@
 ---
-title: "Grader, Physics 2300 & 2301"
+title: "Teaching Assistant, Physics 2300 & 2301"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching4
@@ -8,7 +8,7 @@ date: 2014-08-23
 location: "Columbus, OH, USA"
 ---
 
-Graded Physics 2300 & 2301 a course for physics majors in their sophomre year. Instructor: Prof. Gregory Kilcup.
+Physics 2300 & 2301: Intermediate mechanics. For physics majors in their sophomre year. Instructor: Prof. Gregory Kilcup.
 
 Total Duration: Fall 2012
 ======
